@@ -1,2 +1,2 @@
-# santa-calls-dashboard
-Santa Calls MVP dashboard
+# Santa Calls Dashboard
+A tabbed React dashboard for tracking hardware and app build progress.
