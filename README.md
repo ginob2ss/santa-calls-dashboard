@@ -1,4 +1,2 @@
 # Santa Calls Dashboard
-A tabbed React dashboard for tracking hardware and app build progress.
-<!-- trigger vercel -->
-Trigger Vercel deploy
+A verified working version ready for Vercel deployment.
